@@ -118,7 +118,7 @@ membuat percabangan if untuk apabila menginput 't' contoh sebagai berikut :
                 print("|                          TIDAK ADA DATA!                       |")
                 print("==================================================================")
 
-lalu menambahan else untuk menyetop loopingan tadi :
+lalu menambahan else untuk menyetop loopingan tadi  :
 
     else:
         break
